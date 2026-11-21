@@ -8,5 +8,6 @@
 <p align =center><img width="1920" height="1080" alt="OG_Anunoby_1920x1080" src="https://github.com/user-attachments/assets/fa2afbcb-735a-4c20-96eb-405faaa3093a" />
 
                    
-<p align =center><picture><img width="736" height="162" alt="image" src="https://github.com/user-attachments/assets/48173a74-99ab-433e-b97a-8a34d084fef5" />
+<p align =center><picture><img width="736" height="311" alt="image" src="https://github.com/user-attachments/assets/5b019d01-01c5-410c-8d92-4c2492e6314c" />
+
 
