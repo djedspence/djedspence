@@ -2,6 +2,7 @@
 
 
 
-<p align =center><img width="3840" height="2560" alt="Djed_Spence_25_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02" src="https://github.com/user-attachments/assets/319262d6-6e16-4c5b-ad5a-ea1bebd1da66" />
+<p align =center><img width="1920" height="1080" alt="OG_Anunoby_1920x1080" src="https://github.com/user-attachments/assets/fa2afbcb-735a-4c20-96eb-405faaa3093a" />
 
+                   
 <picture><img width="2048" height="154" alt="image" src="https://github.com/user-attachments/assets/eeba10a7-e1c5-4eab-9466-540339f24002" />
